@@ -7,13 +7,13 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Destiny</title>
-        <meta name="description" content="ur mom hot asf" />
+        <meta name="description" content="Website made by altair becoz a guy gave this domain for free lmao" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://destiny.devpage.me">Next.js!</a>
+          Hi Im <a href="https://destiny.devpage.me">Destiny!</a>
         </h1>
 
         <p className={styles.description}>
@@ -22,18 +22,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://destiny.devpage.me" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://destiny.devpage.me" className={styles.card}>
             <h2>Learn &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://destiny.devpage.me"
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
@@ -41,7 +41,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://destiny.devpage.me"
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
