@@ -24,29 +24,29 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://destiny.devpage.me" className={styles.card}>
             <h2>About Me &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find in-depth information about Me and my Skills.</p>
           </a>
 
           <a href="https://destiny.devpage.me" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h2>Behance;</h2>
+            <p>Checkout My Behance Portfolio where i make art and stuff for some of my projects!</p>
           </a>
 
           <a
             href="https://destiny.devpage.me"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>MineTrek &rarr;</h2>
+            <p>A Minecraft Server made by me and my friends to provide users a good and best experience of high tech modern cities!</p>
           </a>
 
           <a
-            href="https://destiny.devpage.me"
+            href="https://discord.com/oauth2/authorize?client_id=894936574284935199&permissions=2213544768&scope=bot"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>D-Tune &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              D-Tune is a discord bot project ive been working recently to provide users Listen to music right from your Discord server with the most stable and intuitive music bot 24/7.
             </p>
           </a>
         </div>
